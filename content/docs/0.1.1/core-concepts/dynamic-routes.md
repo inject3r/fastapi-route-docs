@@ -98,13 +98,13 @@ routes/
 
 This handles URLs with any number of segments:
 
-- `/docs/getting-started` → `slug = ["getting-started"]`
-- `/docs/guide/installation/setup` → `slug = ["guide", "installation", "setup"]`
+- `/docs/0.1.1/getting-started` → `slug = ["getting-started"]`
+- `/docs/0.1.1/guide/installation/setup` → `slug = ["guide", "installation", "setup"]`
 
 The catch-all parameter receives a list of path segments:
 
 ```python
-# routes/docs/[...slug]/route.py
+# routes/docs/0.1.1/[...slug]/route.py
 from fastapi_route import Request
 
 def GET(request: Request, slug: list):
@@ -180,6 +180,6 @@ routes/
 
 ## Next Steps
 
-- [Route Groups](/docs/core-concepts/route-groups) - Organize routes without affecting the URL
-- [HTTP Methods](/docs/core-concepts/http-methods) - Handle different request types
-- [Middleware](/docs/core-concepts/middleware) - Add authentication and logging to your routes
+- [Route Groups](/docs/0.1.1/core-concepts/route-groups) - Organize routes without affecting the URL
+- [HTTP Methods](/docs/0.1.1/core-concepts/http-methods) - Handle different request types
+- [Middleware](/docs/0.1.1/core-concepts/middleware) - Add authentication and logging to your routes

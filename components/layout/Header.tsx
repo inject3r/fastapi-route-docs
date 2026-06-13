@@ -98,7 +98,7 @@ export default function Header() {
             </a>
 
             <Link
-              href="/docs/quick-start"
+              href={`/docs/${Project.version}/getting-started/index`}
               className="hidden md:flex items-center gap-2 px-4 py-1.5 rounded-full bg-white text-black text-sm font-medium hover:bg-gray-200 transition-all hover:scale-105"
             >
               <span>Get Started</span>

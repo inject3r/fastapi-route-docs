@@ -55,5 +55,5 @@ FastAPI Route works on Linux, macOS, and Windows.
 
 ## Next Steps
 
-- [Quick Start](/docs/getting-started/quick-start) - Build your first API in minutes
-- [Project Structure](/docs/getting-started/project-structure) - Learn the folder layout and conventions
+- [Quick Start](/docs/0.1.1/getting-started/quick-start) - Build your first API in minutes
+- [Project Structure](/docs/0.1.1/getting-started/project-structure) - Learn the folder layout and conventions

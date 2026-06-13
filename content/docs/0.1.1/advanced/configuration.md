@@ -270,6 +270,6 @@ This means you can set defaults in `config.py` and override them temporarily wit
 
 ## Next Steps
 
-- [Custom Handlers](/docs/advanced/custom-handlers) - Create custom documentation and 404 pages
-- [Error Handling](/docs/advanced/error-handling) - Handle HTTP errors gracefully
-- [Build System](/docs/advanced/build-system) - Optimize your production deployment
+- [Custom Handlers](/docs/0.1.1/advanced/custom-handlers) - Create custom documentation and 404 pages
+- [Error Handling](/docs/0.1.1/advanced/error-handling) - Handle HTTP errors gracefully
+- [Build System](/docs/0.1.1/advanced/build-system) - Optimize your production deployment

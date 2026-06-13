@@ -299,6 +299,6 @@ async def middleware(request: Request, call_next):
 
 ## Next Steps
 
-- [Custom Handlers](/docs/advanced/custom-handlers) - Create custom documentation and 404 pages
-- [Configuration](/docs/advanced/configuration) - Configure debug mode and logging settings
-- [Build System](/docs/advanced/build-system) - Build your project for production deployment
+- [Custom Handlers](/docs/0.1.1/advanced/custom-handlers) - Create custom documentation and 404 pages
+- [Configuration](/docs/0.1.1/advanced/configuration) - Configure debug mode and logging settings
+- [Build System](/docs/0.1.1/advanced/build-system) - Build your project for production deployment

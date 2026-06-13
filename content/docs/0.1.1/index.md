@@ -21,11 +21,11 @@ FastAPI Route is a framework that extends FastAPI with:
 
 ## Quick Links
 
-- [Getting Started](/docs/getting-started) - Start here
-- [Installation](/docs/getting-started/installation) - Install FastAPI Route
-- [Quick Start](/docs/getting-started/quick-start) - Build your first API
-- [File-based Routing](/docs/core-concepts/file-based-routing) - Learn the core concept
-- [CLI Commands](/docs/cli) - All available commands
+- [Getting Started](/docs/0.1.1/getting-started) - Start here
+- [Installation](/docs/0.1.1/getting-started/installation) - Install FastAPI Route
+- [Quick Start](/docs/0.1.1/getting-started/quick-start) - Build your first API
+- [File-based Routing](/docs/0.1.1/core-concepts/file-based-routing) - Learn the core concept
+- [CLI Commands](/docs/0.1.1/cli) - All available commands
 
 ## Features
 

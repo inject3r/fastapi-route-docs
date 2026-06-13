@@ -354,6 +354,6 @@ If these files don't exist, FastAPI Route uses its built-in defaults.
 
 ## Next Steps
 
-- [Error Handling](/docs/advanced/error-handling) - Learn about HTTP exceptions and error responses
-- [Configuration](/docs/advanced/configuration) - Configure server, logging, and build settings
-- [Build System](/docs/advanced/build-system) - Optimize your production deployment
+- [Error Handling](/docs/0.1.1/advanced/error-handling) - Learn about HTTP exceptions and error responses
+- [Configuration](/docs/0.1.1/advanced/configuration) - Configure server, logging, and build settings
+- [Build System](/docs/0.1.1/advanced/build-system) - Optimize your production deployment

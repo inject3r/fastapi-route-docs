@@ -176,6 +176,6 @@ FastAPI Route automatically handles `HEAD` requests (returns same headers as `GE
 
 ## Next Steps
 
-- [Middleware](/docs/core-concepts/middleware) - Add authentication and logging to all routes
-- [Build System](/docs/advanced/build-system) - Compile routes for production
-- [Error Handling](/docs/advanced/error-handling) - Raise HTTP exceptions and handle errors gracefully
+- [Middleware](/docs/0.1.1/core-concepts/middleware) - Add authentication and logging to all routes
+- [Build System](/docs/0.1.1/advanced/build-system) - Compile routes for production
+- [Error Handling](/docs/0.1.1/advanced/error-handling) - Raise HTTP exceptions and handle errors gracefully

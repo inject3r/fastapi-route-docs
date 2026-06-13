@@ -32,6 +32,6 @@ FastAPI Route converts your file structure into API routes automatically:
 
 ## Next Steps
 
-- [Installation](/docs/getting-started/installation) - Install FastAPI Route
-- [Quick Start](/docs/getting-started/quick-start) - Build your first API
-- [Project Structure](/docs/getting-started/project-structure) - Understand the folder layout
+- [Installation](/docs/0.1.1/getting-started/installation) - Install FastAPI Route
+- [Quick Start](/docs/0.1.1/getting-started/quick-start) - Build your first API
+- [Project Structure](/docs/0.1.1/getting-started/project-structure) - Understand the folder layout

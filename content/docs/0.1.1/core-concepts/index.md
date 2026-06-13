@@ -113,8 +113,8 @@ When you run `fastapi-route dev`, FastAPI Route:
 
 ## Next Steps
 
-- [File-based Routing](/docs/core-concepts/file-based-routing) - Learn the mapping rules in detail
-- [Dynamic Routes](/docs/core-concepts/dynamic-routes) - Master path parameters and catch-all routes
-- [Route Groups](/docs/core-concepts/route-groups) - Organize code without changing URLs
-- [HTTP Methods](/docs/core-concepts/http-methods) - Explore all supported methods and the Request object
-- [Middleware](/docs/core-concepts/middleware) - Add authentication, logging, and rate limiting
+- [File-based Routing](/docs/0.1.1/core-concepts/file-based-routing) - Learn the mapping rules in detail
+- [Dynamic Routes](/docs/0.1.1/core-concepts/dynamic-routes) - Master path parameters and catch-all routes
+- [Route Groups](/docs/0.1.1/core-concepts/route-groups) - Organize code without changing URLs
+- [HTTP Methods](/docs/0.1.1/core-concepts/http-methods) - Explore all supported methods and the Request object
+- [Middleware](/docs/0.1.1/core-concepts/middleware) - Add authentication, logging, and rate limiting

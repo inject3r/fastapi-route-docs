@@ -18,7 +18,7 @@ Open [http://localhost:3000](http://localhost:3000) to see the result.
 
 ## Documentation Structure
 
-Documentation files are stored in `content/docs/` as Markdown files with YAML frontmatter.
+Documentation files are stored in `content/[version]/docs/` as Markdown files with YAML frontmatter.
 
 ## Build
 

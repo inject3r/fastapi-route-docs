@@ -47,7 +47,7 @@ export default function NotFound() {
           </Link>
 
           <Link
-            href="/docs/quick-start"
+            href={`/docs/${Project.version}/getting-started/index`}
             className="inline-flex items-center gap-2 bg-white/5 border border-white/10 px-5 py-2.5 rounded-lg text-sm font-medium hover:bg-white/10 transition-colors"
           >
             Go to Documentation

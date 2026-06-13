@@ -164,6 +164,6 @@ If you love FastAPI but wish routes were defined by files instead of decorators,
 
 ## Next Steps
 
-- [Getting Started](/docs/getting-started) - Learn the basics of FastAPI Route
-- [Quick Start](/docs/getting-started/quick-start) - Build your first API in minutes
-- [Installation](/docs/getting-started/installation) - Install FastAPI Route in your project
+- [Getting Started](/docs/0.1.1/getting-started) - Learn the basics of FastAPI Route
+- [Quick Start](/docs/0.1.1/getting-started/quick-start) - Build your first API in minutes
+- [Installation](/docs/0.1.1/getting-started/installation) - Install FastAPI Route in your project

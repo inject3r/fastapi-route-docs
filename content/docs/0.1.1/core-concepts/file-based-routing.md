@@ -140,6 +140,6 @@ This creates a `.cache/` directory with compressed route metadata. When you run 
 
 ## Next Steps
 
-- [Dynamic Routes](/docs/core-concepts/dynamic-routes) - Create routes with URL parameters using `[param]` folders
-- [Route Groups](/docs/core-concepts/route-groups) - Organize routes without affecting the URL using `(group)` folders
-- [HTTP Methods](/docs/core-concepts/http-methods) - Learn about all supported HTTP methods and their usage
+- [Dynamic Routes](/docs/0.1.1/core-concepts/dynamic-routes) - Create routes with URL parameters using `[param]` folders
+- [Route Groups](/docs/0.1.1/core-concepts/route-groups) - Organize routes without affecting the URL using `(group)` folders
+- [HTTP Methods](/docs/0.1.1/core-concepts/http-methods) - Learn about all supported HTTP methods and their usage

@@ -233,6 +233,6 @@ Lower the compression level with `--compression 3` for faster builds at the cost
 
 ## Next Steps
 
-- [Configuration](/docs/advanced/configuration) - Customize build settings in config.py
-- [Custom Handlers](/docs/advanced/custom-handlers) - Add custom documentation and 404 pages
-- [Error Handling](/docs/advanced/error-handling) - Learn about HTTP exceptions and error responses
+- [Configuration](/docs/0.1.1/advanced/configuration) - Customize build settings in config.py
+- [Custom Handlers](/docs/0.1.1/advanced/custom-handlers) - Add custom documentation and 404 pages
+- [Error Handling](/docs/0.1.1/advanced/error-handling) - Learn about HTTP exceptions and error responses

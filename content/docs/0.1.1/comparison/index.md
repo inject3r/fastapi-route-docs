@@ -142,5 +142,5 @@ Both are valid choices. Choose the one that fits your mental model and project n
 
 ## Next Steps
 
-- [Why Choose](/docs/comparison/why-choose) - More reasons to choose FastAPI Route
-- [Getting Started](/docs/getting-started) - Start building with FastAPI Route
+- [Why Choose](/docs/0.1.1/comparison/why-choose) - More reasons to choose FastAPI Route
+- [Getting Started](/docs/0.1.1/getting-started) - Start building with FastAPI Route

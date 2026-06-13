@@ -250,6 +250,6 @@ Remember that FastAPI Route is built on top of FastAPI. You can use both approac
 
 ## Next Steps
 
-- [Why Choose](/docs/comparison/why-choose) - Learn more reasons to choose FastAPI Route
-- [Getting Started](/docs/getting-started) - Start building with FastAPI Route
-- [Quick Start](/docs/getting-started/quick-start) - Build your first API in minutes
+- [Why Choose](/docs/0.1.1/comparison/why-choose) - Learn more reasons to choose FastAPI Route
+- [Getting Started](/docs/0.1.1/getting-started) - Start building with FastAPI Route
+- [Quick Start](/docs/0.1.1/getting-started/quick-start) - Build your first API in minutes

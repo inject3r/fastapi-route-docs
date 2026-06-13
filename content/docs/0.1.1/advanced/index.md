@@ -77,7 +77,7 @@ FastAPI Route provides comprehensive error handling:
 
 ## Next Steps
 
-- [Build System](/docs/advanced/build-system) - Learn about the production build process in depth
-- [Configuration](/docs/advanced/configuration) - Explore all configuration options
-- [Custom Handlers](/docs/advanced/custom-handlers) - Create custom documentation and 404 pages
-- [Error Handling](/docs/advanced/error-handling) - Handle errors gracefully with HTTP exceptions
+- [Build System](/docs/0.1.1/advanced/build-system) - Learn about the production build process in depth
+- [Configuration](/docs/0.1.1/advanced/configuration) - Explore all configuration options
+- [Custom Handlers](/docs/0.1.1/advanced/custom-handlers) - Create custom documentation and 404 pages
+- [Error Handling](/docs/0.1.1/advanced/error-handling) - Handle errors gracefully with HTTP exceptions

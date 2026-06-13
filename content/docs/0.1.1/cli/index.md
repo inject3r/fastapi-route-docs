@@ -175,6 +175,6 @@ You can use these exit codes in CI/CD pipelines to detect failures.
 
 ## Next Steps
 
-- [Getting Started](/docs/getting-started) - Learn the basics
-- [Quick Start](/docs/getting-started/quick-start) - Build your first API in minutes
-- [Build System](/docs/advanced/build-system) - Understand the production build process in depth
+- [Getting Started](/docs/0.1.1/getting-started) - Learn the basics
+- [Quick Start](/docs/0.1.1/getting-started/quick-start) - Build your first API in minutes
+- [Build System](/docs/0.1.1/advanced/build-system) - Understand the production build process in depth

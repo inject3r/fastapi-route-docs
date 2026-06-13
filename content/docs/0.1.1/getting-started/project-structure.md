@@ -90,6 +90,6 @@ This directory should be added to `.gitignore` since it's generated during build
 
 ## Next Steps
 
-- [File-based Routing](/docs/core-concepts/file-based-routing) - Learn how routes map to URLs
-- [Dynamic Routes](/docs/core-concepts/dynamic-routes) - Create routes with parameters
-- [Route Groups](/docs/core-concepts/route-groups) - Organize routes without affecting URLs
+- [File-based Routing](/docs/0.1.1/core-concepts/file-based-routing) - Learn how routes map to URLs
+- [Dynamic Routes](/docs/0.1.1/core-concepts/dynamic-routes) - Create routes with parameters
+- [Route Groups](/docs/0.1.1/core-concepts/route-groups) - Organize routes without affecting URLs

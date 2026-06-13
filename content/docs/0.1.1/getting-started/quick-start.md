@@ -119,7 +119,7 @@ Any changes you make to your route files will automatically reload the server.
 
 ## Next Steps
 
-- [File-based Routing](/docs/core-concepts/file-based-routing) - Learn how routes map to URLs in detail
-- [Dynamic Routes](/docs/core-concepts/dynamic-routes) - Master path parameters and validation
-- [Route Groups](/docs/core-concepts/route-groups) - Organize routes without affecting URLs
-- [Middleware](/docs/core-concepts/middleware) - Add authentication, logging, and rate limiting
+- [File-based Routing](/docs/0.1.1/core-concepts/file-based-routing) - Learn how routes map to URLs in detail
+- [Dynamic Routes](/docs/0.1.1/core-concepts/dynamic-routes) - Master path parameters and validation
+- [Route Groups](/docs/0.1.1/core-concepts/route-groups) - Organize routes without affecting URLs
+- [Middleware](/docs/0.1.1/core-concepts/middleware) - Add authentication, logging, and rate limiting

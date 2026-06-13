@@ -28,6 +28,7 @@ Even though `(auth)` is a folder in your project, it does not appear in the URL 
 Route groups solve a common problem: you want to organize related routes together in your file system, but you don't want those organization folders to become part of your API URL.
 
 **Without route groups:**
+
 ```plaintext
 routes/
 ├── auth/
@@ -36,6 +37,7 @@ routes/
 ```
 
 **With route groups:**
+
 ```plaintext
 routes/
 └── (auth)/
@@ -86,6 +88,7 @@ routes/
 ```
 
 URLs remain clean and intuitive:
+
 - `/login`, `/register`, `/logout`, `/password-reset`
 - `/analytics`, `/reports`, `/settings`
 - `/about`, `/contact`, `/pricing`
@@ -175,6 +178,7 @@ This structure keeps related code together while maintaining a clean, logical UR
 ## Common Patterns
 
 **Separating public and authenticated routes:**
+
 ```plaintext
 routes/
 ├── (public)/      # No auth required
@@ -182,6 +186,7 @@ routes/
 ```
 
 **Organizing by domain:**
+
 ```plaintext
 routes/
 ├── (billing)/
@@ -190,6 +195,7 @@ routes/
 ```
 
 **Version isolation:**
+
 ```plaintext
 routes/
 ├── (stable)/
@@ -200,6 +206,6 @@ routes/
 
 ## Next Steps
 
-- [HTTP Methods](/docs/core-concepts/http-methods) - Handle different request types in your routes
-- [Middleware](/docs/core-concepts/middleware) - Add authentication to protected route groups
-- [Dynamic Routes](/docs/core-concepts/dynamic-routes) - Combine groups with dynamic parameters
+- [HTTP Methods](/docs/0.1.1/core-concepts/http-methods) - Handle different request types in your routes
+- [Middleware](/docs/0.1.1/core-concepts/middleware) - Add authentication to protected route groups
+- [Dynamic Routes](/docs/0.1.1/core-concepts/dynamic-routes) - Combine groups with dynamic parameters

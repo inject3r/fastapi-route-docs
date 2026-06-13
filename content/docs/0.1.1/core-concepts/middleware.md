@@ -296,6 +296,6 @@ async def middleware(request: Request, call_next):
 
 ## Next Steps
 
-- [Build System](/docs/advanced/build-system) - Compile routes for production
-- [Configuration](/docs/advanced/configuration) - Customize server and logging settings
-- [Error Handling](/docs/advanced/error-handling) - Raise HTTP exceptions and handle errors gracefully
+- [Build System](/docs/0.1.1/advanced/build-system) - Compile routes for production
+- [Configuration](/docs/0.1.1/advanced/configuration) - Customize server and logging settings
+- [Error Handling](/docs/0.1.1/advanced/error-handling) - Raise HTTP exceptions and handle errors gracefully

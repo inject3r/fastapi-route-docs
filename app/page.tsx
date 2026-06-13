@@ -31,6 +31,7 @@ import {
 import Link from "next/link";
 import SyntaxHighlighter from "react-syntax-highlighter";
 import { vscDarkPlus } from "react-syntax-highlighter/dist/esm/styles/prism";
+import { Project } from "@/project";
 
 const features = [
   {
@@ -1010,7 +1011,7 @@ export default function HomePage() {
               }}
             >
               <Link
-                href="/docs/quick-start"
+                href={`/docs/${Project.version}/getting-started/index`}
                 className="group inline-flex items-center gap-2 rounded-xl bg-white px-6 py-3 font-semibold text-black shadow-lg shadow-white/10 transition-all hover:scale-105 hover:bg-gray-100"
               >
                 Get Started
@@ -1115,7 +1116,7 @@ export default function HomePage() {
             <CodeExample />
             <div className="mt-8 text-center">
               <Link
-                href="/docs/quick-start"
+                href={`/docs/${Project.version}/getting-started/index`}
                 className="group inline-flex items-center gap-2 text-gray-400 transition-all hover:text-white"
               >
                 <span>Read the documentation</span>
