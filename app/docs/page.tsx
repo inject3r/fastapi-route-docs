@@ -8,6 +8,7 @@ import {
   Settings,
   Box,
 } from "lucide-react";
+import { Project } from "@/project";
 
 function groupDocsByCategory(docs: any[]) {
   const groups: { [key: string]: any[] } = {
@@ -125,7 +126,7 @@ export default async function DocsHomePage({ params }: Props) {
               {categoryDocs.map((doc) => (
                 <Link
                   key={doc.slug}
-                  href={`/docs/${version}/${doc.slug}`}
+                  href={`/docs/${version == null || version === undefined ? Project.version : version}/${doc.slug}`}
                   className="group block rounded-xl border border-gray-800 bg-black/40 backdrop-blur-sm p-5 transition-all duration-300 hover:border-gray-700 hover:bg-black/60 hover:shadow-xl"
                 >
                   <div className="flex items-start justify-between gap-3">
