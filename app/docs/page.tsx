@@ -73,7 +73,7 @@ export default async function DocsHomePage({ params }: Props) {
   const projectName = "FastAPI Route";
 
   return (
-    <div className="max-w-6xl mx-auto px-4 py-8 sm:px-6 lg:px-8">
+    <div className="max-w-6xl mx-auto px-0 py-8 sm:px-6 lg:px-8">
       <div className="text-center mb-12">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/5 border border-white/10 mb-6">
           <BookOpen className="h-3.5 w-3.5 text-gray-400" />

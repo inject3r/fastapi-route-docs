@@ -43,7 +43,7 @@ export default async function DocsLayout({ children, params }: Props) {
       <div className="relative max-w-7xl mx-auto px-0 sm:px-6 lg:px-8 py-18 md:flex md:flex-row">
         <Sidebar items={sidebarItems} />
         <div className="flex-1 min-w-0">
-          <div className="mt-4 w-full min-w-0 px-1 md:px-12 md:pr-6">
+          <div className="mt-4 w-full min-w-0 md:px-12 md:pr-6">
             {children}
           </div>
         </div>
